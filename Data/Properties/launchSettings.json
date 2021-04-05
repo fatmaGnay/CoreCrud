@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTION_STRİNG": "Server=localhost;Port=3306;Database=CoreCRUD;Uid=root;Pwd=123456;"
+      }
+    }
+  }
+}
